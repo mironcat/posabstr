@@ -6,7 +6,7 @@ export default defineConfig({
   base: '/',
   lang: 'ru',
   title: "Палеоботанический семинар",
-  description: "Тезисы Палеоботанического онлайн семинара",
+  description: "Палеоботанический онлайн семинар",
   ignoreDeadLinks: true,
   // locales: {
   //   root: {
@@ -60,7 +60,8 @@ export default defineConfig({
           { text: '2021 год', link: '/book-2021' },
           { text: '2022 год', link: '/book-2022' },
           { text: '2023 год', link: '/book-2023' },
-          { text: '2024 год', link: '/book-2024' }
+          { text: '2024 год', link: '/book-2024' },
+          { text: '2025 год', link: '/book-2025' }
           // { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
